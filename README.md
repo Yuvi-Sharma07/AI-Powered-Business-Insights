@@ -1,4 +1,4 @@
-# AI-Powered Business Insights Dashboard
+# AI-Powered Business Insights 
 
 A full-stack, enterprise-grade business intelligence and analytics application. Designed as a portfolio project demonstrating Python backend architecture, secure SQL modeling, GenAI integrations (Text-to-SQL and narrative reports), and interactive data visualizations.
 
